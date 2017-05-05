@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-inappbrowser-engage-if",
-  "version": "1.8.5",
+  "version": "1.8.6",
   "description": "Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
