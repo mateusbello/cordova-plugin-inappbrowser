@@ -19,8 +19,8 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-inappbrowser-engage-irishferries"
-      version="1.8.7">
+           id="cordova-plugin-inappbrowser-engage"
+      version="1.9.7">
 
     <name>InAppBrowser</name>
     <description>Cordova InAppBrowser Plugin</description>
