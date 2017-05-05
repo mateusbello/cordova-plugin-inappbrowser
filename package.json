@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-inappbrowser-engage-if",
+  "name": "cordova-plugin-inappbrowser-engage-irishferries",
   "version": "1.8.7",
   "description": "Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-inappbrowser-engage-IF",
+    "id": "cordova-plugin-inappbrowser-engage-irishferries",
     "platforms": [
       "android",
       "amazon-fireos",
