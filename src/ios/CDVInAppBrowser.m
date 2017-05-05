@@ -591,7 +591,7 @@
     self.toolbar.alpha = 1.000;
     self.toolbar.autoresizesSubviews = YES;
     self.toolbar.autoresizingMask = toolbarIsAtBottom ? (UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleTopMargin) : UIViewAutoresizingFlexibleWidth;
-    self.toolbar.barStyle = UIBarStyleBlackOpaque;
+    self.toolbar.barStyle = UIBarStyleBlack;
     self.toolbar.clearsContextBeforeDrawing = NO;
     self.toolbar.clipsToBounds = NO;
     self.toolbar.contentMode = UIViewContentModeScaleToFill;
@@ -601,7 +601,7 @@
     self.toolbar.userInteractionEnabled = YES;
     self.toolbar.barTintColor= [UIColor colorWithRed:247.0 / 255.0 green:247.0 / 255.0 blue:11.0 / 248.0 alpha:1];
     self.backButton.tintColor = [UIColor colorWithRed:76.0 / 255.0 green:217.0 / 255.0 blue:11.0 / 100.0 alpha:1];
-
+    self.backButton.tintColor = [UIColor colorWithRed:76.0 / 255.0 green:217.0 / 255.0 blue:11.0 / 100.0 alpha:1];
     CGFloat labelInset = 5.0;
     float locationBarY = toolbarIsAtBottom ? self.view.bounds.size.height - FOOTER_HEIGHT : self.view.bounds.size.height - LOCATIONBAR_HEIGHT;
 
