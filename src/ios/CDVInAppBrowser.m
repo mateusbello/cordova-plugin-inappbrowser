@@ -601,7 +601,9 @@
     self.toolbar.userInteractionEnabled = YES;
     self.toolbar.barTintColor = [UIColor blackColor];
     self.backButton.tintColor = [UIColor colorWithRed:76.0 / 255.0 green:217.0 / 255.0 blue:11.0 / 255.0 alpha:1];
-   
+    self.navigationBar.tintColor = UIColor.white
+
+
     CGFloat labelInset = 5.0;
     float locationBarY = toolbarIsAtBottom ? self.view.bounds.size.height - FOOTER_HEIGHT : self.view.bounds.size.height - LOCATIONBAR_HEIGHT;
 
