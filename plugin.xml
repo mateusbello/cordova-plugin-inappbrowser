@@ -20,7 +20,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="cordova-plugin-inappbrowser-engage-IF"
-      version="1.8.6">
+      version="1.8.7">
 
     <name>InAppBrowser</name>
     <description>Cordova InAppBrowser Plugin</description>

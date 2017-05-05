@@ -599,7 +599,7 @@
     self.toolbar.multipleTouchEnabled = NO;
     self.toolbar.opaque = NO;
     self.toolbar.userInteractionEnabled = YES;
-    self.toolbar.barTintColor= [UIColor colorWithRed:247.0 / 255.0 green:247.0 / 255.0 blue:248.0 / 255.0 alpha:1];
+    self.toolbar.barTintColor = [UIColor blackColor];
     self.backButton.tintColor = [UIColor colorWithRed:76.0 / 255.0 green:217.0 / 255.0 blue:11.0 / 255.0 alpha:1];
    
     CGFloat labelInset = 5.0;
